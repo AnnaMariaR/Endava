@@ -1,2 +1,2 @@
 # endavaProject
-Mini-Project for Endava AM
+Mini-Project for Endava AM course
